@@ -1,7 +1,6 @@
 # V2V Stage 1:
-Voice-to-voice audio conversion using AI 
 
-1) Audio Transcription Script
+Audio Transcription Script
 This script uses the STT (Speech-to-Text) library to transcribe audio files into text. It takes audio files from the input directory, transcribes them, and saves the transcriptions as separate text files in the output directory.
 
 Getting Started
