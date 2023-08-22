@@ -11,7 +11,7 @@ STT library (install instructions: link to STT library)
 Installation
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/audio-transcription-script.git
+git clone [https://github.com/your-username/audio-transcription-script.git](https://github.com/Lelandwilson/V2V.git)
 Install the required dependencies:
 
 
