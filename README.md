@@ -17,8 +17,8 @@ Install the required dependencies:
 pip install -r requirements.txt
 
 Usage:
-Place your (input)audio files (in WAV format) in the stripped_vocals/ directory.
-It will generate both audio chunks and place them in the audio-chunks directory & transcripts in the transcriptions directory.
+Place your (input)audio files (in WAV format) in the ./stripped_vocals/ directory.
+It will generate both audio chunks and place them in the ./audio-chunks/ directory & transcripts in the transcriptions directory.
 These will be numbered so that they correspind. Warning, files in these directories will be overwritten with subsequent operations of the script.
 
 
